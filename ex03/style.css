@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+.counter-box {
+    display: inline-block;
+    background-color: white;
+    padding: 30px;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+}
+
+#counter {
+    font-size: 48px;
+    color: black;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
